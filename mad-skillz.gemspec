@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/mad-skillz.rb",
+     "mad-skillz.gemspec",
      "spec/mad-skillz_spec.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb"
