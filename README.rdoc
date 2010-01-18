@@ -1,6 +1,6 @@
 = mad-skillz
 
-Description goes here.
+Clearly a critical oversight that we forgot to make an actual gem. I'm holding the place for now and planning on putting something here soon.
 
 == Note on Patches/Pull Requests
  
